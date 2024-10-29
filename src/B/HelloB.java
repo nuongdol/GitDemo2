@@ -19,6 +19,7 @@ public class HelloB {
         System.out.println(h1.substring(0,5));//lay tu 0-4
         System.out.println("Toi khong lam duoc gi vo dung qua hai oi.");
         System.out.println("Toi cung buon giong ban, tai sao ban buon.");
+
     }
 
 }
