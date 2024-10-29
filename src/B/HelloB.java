@@ -17,6 +17,8 @@ public class HelloB {
         String h1 = " Trang VietJack";
         System.out.println(h1.substring(5));//bat dau tu vi tri 5
         System.out.println(h1.substring(0,5));//lay tu 0-4
+        System.out.println("Toi khong lam duoc gi vo dung qua hai oi.");
+        System.out.println("Toi cung buon giong ban, tai sao ban buon.");
     }
 
 }
