@@ -6,4 +6,5 @@ public class OriginalNuong {
     bởi vì t qua kem coi, chan thật sự đấy
     phải làm sao đây
      */
+    //co len nao dung nhu vay nua neu khong co gắng thi phai lam sao
 }
